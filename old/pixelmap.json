@@ -1,0 +1,1414 @@
+{
+  "pixels": [
+    {
+      "latex": "4<x<5\\left\\{0<y<1\\right\\}",
+      "color": "rgb(254, 221, 153)"
+    },
+    {
+      "latex": "5<x<6\\left\\{0<y<1\\right\\}",
+      "color": "rgb(254, 221, 153)"
+    },
+    {
+      "latex": "6<x<7\\left\\{0<y<1\\right\\}",
+      "color": "rgb(254, 221, 153)"
+    },
+    {
+      "latex": "7<x<8\\left\\{0<y<1\\right\\}",
+      "color": "rgb(254, 207, 144)"
+    },
+    {
+      "latex": "8<x<9\\left\\{0<y<1\\right\\}",
+      "color": "rgb(254, 207, 144)"
+    },
+    {
+      "latex": "9<x<10\\left\\{0<y<1\\right\\}",
+      "color": "rgb(254, 221, 153)"
+    },
+    {
+      "latex": "10<x<11\\left\\{0<y<1\\right\\}",
+      "color": "rgb(254, 221, 153)"
+    },
+    {
+      "latex": "11<x<12\\left\\{0<y<1\\right\\}",
+      "color": "rgb(254, 221, 153)"
+    },
+    {
+      "latex": "4<x<5\\left\\{1<y<2\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "5<x<6\\left\\{1<y<2\\right\\}",
+      "color": "rgb(244, 142, 173)"
+    },
+    {
+      "latex": "6<x<7\\left\\{1<y<2\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "7<x<8\\left\\{1<y<2\\right\\}",
+      "color": "rgb(254, 229, 177)"
+    },
+    {
+      "latex": "8<x<9\\left\\{1<y<2\\right\\}",
+      "color": "rgb(254, 229, 177)"
+    },
+    {
+      "latex": "9<x<10\\left\\{1<y<2\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "10<x<11\\left\\{1<y<2\\right\\}",
+      "color": "rgb(244, 142, 173)"
+    },
+    {
+      "latex": "11<x<12\\left\\{1<y<2\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "4<x<5\\left\\{2<y<3\\right\\}",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "latex": "5<x<6\\left\\{2<y<3\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "6<x<7\\left\\{2<y<3\\right\\}",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "latex": "7<x<8\\left\\{2<y<3\\right\\}",
+      "color": "rgb(254, 229, 177)"
+    },
+    {
+      "latex": "8<x<9\\left\\{2<y<3\\right\\}",
+      "color": "rgb(254, 229, 177)"
+    },
+    {
+      "latex": "9<x<10\\left\\{2<y<3\\right\\}",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "latex": "10<x<11\\left\\{2<y<3\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "11<x<12\\left\\{2<y<3\\right\\}",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "latex": "4<x<5\\left\\{3<y<4\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "5<x<6\\left\\{3<y<4\\right\\}",
+      "color": "rgb(158, 135, 99)"
+    },
+    {
+      "latex": "6<x<7\\left\\{3<y<4\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "7<x<8\\left\\{3<y<4\\right\\}",
+      "color": "rgb(126, 109, 79)"
+    },
+    {
+      "latex": "8<x<9\\left\\{3<y<4\\right\\}",
+      "color": "rgb(126, 109, 79)"
+    },
+    {
+      "latex": "9<x<10\\left\\{3<y<4\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "10<x<11\\left\\{3<y<4\\right\\}",
+      "color": "rgb(158, 135, 99)"
+    },
+    {
+      "latex": "11<x<12\\left\\{3<y<4\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "4<x<5\\left\\{4<y<5\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "5<x<6\\left\\{4<y<5\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "6<x<7\\left\\{4<y<5\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "7<x<8\\left\\{4<y<5\\right\\}",
+      "color": "rgb(158, 135, 99)"
+    },
+    {
+      "latex": "8<x<9\\left\\{4<y<5\\right\\}",
+      "color": "rgb(158, 135, 99)"
+    },
+    {
+      "latex": "9<x<10\\left\\{4<y<5\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "10<x<11\\left\\{4<y<5\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "11<x<12\\left\\{4<y<5\\right\\}",
+      "color": "rgb(250, 242, 230)"
+    },
+    {
+      "latex": "4<x<5\\left\\{5<y<6\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "5<x<6\\left\\{5<y<6\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "6<x<7\\left\\{5<y<6\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "7<x<8\\left\\{5<y<6\\right\\}",
+      "color": "rgb(158, 135, 99)"
+    },
+    {
+      "latex": "8<x<9\\left\\{5<y<6\\right\\}",
+      "color": "rgb(158, 135, 99)"
+    },
+    {
+      "latex": "9<x<10\\left\\{5<y<6\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "10<x<11\\left\\{5<y<6\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "11<x<12\\left\\{5<y<6\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "4<x<5\\left\\{6<y<7\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "5<x<6\\left\\{6<y<7\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "6<x<7\\left\\{6<y<7\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "7<x<8\\left\\{6<y<7\\right\\}",
+      "color": "rgb(158, 135, 99)"
+    },
+    {
+      "latex": "8<x<9\\left\\{6<y<7\\right\\}",
+      "color": "rgb(158, 135, 99)"
+    },
+    {
+      "latex": "9<x<10\\left\\{6<y<7\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "10<x<11\\left\\{6<y<7\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "11<x<12\\left\\{6<y<7\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "4<x<5\\left\\{7<y<8\\right\\}",
+      "color": "rgb(156, 130, 132)"
+    },
+    {
+      "latex": "5<x<6\\left\\{7<y<8\\right\\}",
+      "color": "rgb(156, 130, 132)"
+    },
+    {
+      "latex": "6<x<7\\left\\{7<y<8\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "7<x<8\\left\\{7<y<8\\right\\}",
+      "color": "rgb(158, 134, 99)"
+    },
+    {
+      "latex": "8<x<9\\left\\{7<y<8\\right\\}",
+      "color": "rgb(158, 134, 99)"
+    },
+    {
+      "latex": "9<x<10\\left\\{7<y<8\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "10<x<11\\left\\{7<y<8\\right\\}",
+      "color": "rgb(156, 130, 132)"
+    },
+    {
+      "latex": "11<x<12\\left\\{7<y<8\\right\\}",
+      "color": "rgb(156, 130, 132)"
+    },
+    {
+      "latex": "4<x<5\\left\\{8<y<9\\right\\}",
+      "color": "rgb(156, 130, 132)"
+    },
+    {
+      "latex": "5<x<6\\left\\{8<y<9\\right\\}",
+      "color": "rgb(156, 130, 132)"
+    },
+    {
+      "latex": "6<x<7\\left\\{8<y<9\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "7<x<8\\left\\{8<y<9\\right\\}",
+      "color": "rgb(158, 134, 99)"
+    },
+    {
+      "latex": "8<x<9\\left\\{8<y<9\\right\\}",
+      "color": "rgb(158, 134, 99)"
+    },
+    {
+      "latex": "9<x<10\\left\\{8<y<9\\right\\}",
+      "color": "rgb(182, 164, 145)"
+    },
+    {
+      "latex": "10<x<11\\left\\{8<y<9\\right\\}",
+      "color": "rgb(156, 130, 132)"
+    },
+    {
+      "latex": "11<x<12\\left\\{8<y<9\\right\\}",
+      "color": "rgb(156, 130, 132)"
+    },
+    {
+      "latex": "4<x<5\\left\\{9<y<10\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "5<x<6\\left\\{9<y<10\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "6<x<7\\left\\{9<y<10\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "7<x<8\\left\\{9<y<10\\right\\}",
+      "color": "rgb(168, 147, 114)"
+    },
+    {
+      "latex": "8<x<9\\left\\{9<y<10\\right\\}",
+      "color": "rgb(168, 147, 114)"
+    },
+    {
+      "latex": "9<x<10\\left\\{9<y<10\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "10<x<11\\left\\{9<y<10\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "11<x<12\\left\\{9<y<10\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "4<x<5\\left\\{10<y<11\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "5<x<6\\left\\{10<y<11\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "6<x<7\\left\\{10<y<11\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "7<x<8\\left\\{10<y<11\\right\\}",
+      "color": "rgb(168, 147, 114)"
+    },
+    {
+      "latex": "8<x<9\\left\\{10<y<11\\right\\}",
+      "color": "rgb(168, 147, 114)"
+    },
+    {
+      "latex": "9<x<10\\left\\{10<y<11\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "10<x<11\\left\\{10<y<11\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "11<x<12\\left\\{10<y<11\\right\\}",
+      "color": "rgb(188, 173, 146)"
+    },
+    {
+      "latex": "4<x<5\\left\\{11<y<12\\right\\}",
+      "color": "rgb(178, 161, 132)"
+    },
+    {
+      "latex": "5<x<6\\left\\{11<y<12\\right\\}",
+      "color": "rgb(178, 161, 132)"
+    },
+    {
+      "latex": "6<x<7\\left\\{11<y<12\\right\\}",
+      "color": "rgb(178, 161, 132)"
+    },
+    {
+      "latex": "7<x<8\\left\\{11<y<12\\right\\}",
+      "color": "rgb(168, 147, 114)"
+    },
+    {
+      "latex": "8<x<9\\left\\{11<y<12\\right\\}",
+      "color": "rgb(168, 147, 114)"
+    },
+    {
+      "latex": "9<x<10\\left\\{11<y<12\\right\\}",
+      "color": "rgb(178, 161, 132)"
+    },
+    {
+      "latex": "10<x<11\\left\\{11<y<12\\right\\}",
+      "color": "rgb(178, 161, 132)"
+    },
+    {
+      "latex": "11<x<12\\left\\{11<y<12\\right\\}",
+      "color": "rgb(178, 161, 132)"
+    },
+    {
+      "latex": "0<x<1\\left\\{12<y<13\\right\\}",
+      "color": "rgb(231, 128, 129)"
+    },
+    {
+      "latex": "1<x<2\\left\\{12<y<13\\right\\}",
+      "color": "rgb(233, 123, 123)"
+    },
+    {
+      "latex": "2<x<3\\left\\{12<y<13\\right\\}",
+      "color": "rgb(229, 115, 118)"
+    },
+    {
+      "latex": "3<x<4\\left\\{12<y<13\\right\\}",
+      "color": "rgb(233, 129, 125)"
+    },
+    {
+      "latex": "4<x<5\\left\\{12<y<13\\right\\}",
+      "color": "rgb(66, 80, 112)"
+    },
+    {
+      "latex": "5<x<6\\left\\{12<y<13\\right\\}",
+      "color": "rgb(66, 80, 112)"
+    },
+    {
+      "latex": "6<x<7\\left\\{12<y<13\\right\\}",
+      "color": "rgb(66, 80, 112)"
+    },
+    {
+      "latex": "7<x<8\\left\\{12<y<13\\right\\}",
+      "color": "rgb(66, 80, 112)"
+    },
+    {
+      "latex": "8<x<9\\left\\{12<y<13\\right\\}",
+      "color": "rgb(66, 80, 112)"
+    },
+    {
+      "latex": "9<x<10\\left\\{12<y<13\\right\\}",
+      "color": "rgb(66, 80, 112)"
+    },
+    {
+      "latex": "10<x<11\\left\\{12<y<13\\right\\}",
+      "color": "rgb(66, 80, 112)"
+    },
+    {
+      "latex": "11<x<12\\left\\{12<y<13\\right\\}",
+      "color": "rgb(66, 80, 112)"
+    },
+    {
+      "latex": "12<x<13\\left\\{12<y<13\\right\\}",
+      "color": "rgb(233, 129, 125)"
+    },
+    {
+      "latex": "13<x<14\\left\\{12<y<13\\right\\}",
+      "color": "rgb(229, 115, 118)"
+    },
+    {
+      "latex": "14<x<15\\left\\{12<y<13\\right\\}",
+      "color": "rgb(233, 123, 123)"
+    },
+    {
+      "latex": "15<x<16\\left\\{12<y<13\\right\\}",
+      "color": "rgb(231, 128, 129)"
+    },
+    {
+      "latex": "0<x<1\\left\\{13<y<14\\right\\}",
+      "color": "rgb(235, 133, 132)"
+    },
+    {
+      "latex": "1<x<2\\left\\{13<y<14\\right\\}",
+      "color": "rgb(229, 122, 120)"
+    },
+    {
+      "latex": "2<x<3\\left\\{13<y<14\\right\\}",
+      "color": "rgb(229, 124, 121)"
+    },
+    {
+      "latex": "3<x<4\\left\\{13<y<14\\right\\}",
+      "color": "rgb(218, 100, 100)"
+    },
+    {
+      "latex": "4<x<5\\left\\{13<y<14\\right\\}",
+      "color": "rgb(75, 90, 129)"
+    },
+    {
+      "latex": "5<x<6\\left\\{13<y<14\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "6<x<7\\left\\{13<y<14\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "7<x<8\\left\\{13<y<14\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "8<x<9\\left\\{13<y<14\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "9<x<10\\left\\{13<y<14\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "10<x<11\\left\\{13<y<14\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "11<x<12\\left\\{13<y<14\\right\\}",
+      "color": "rgb(75, 90, 129)"
+    },
+    {
+      "latex": "12<x<13\\left\\{13<y<14\\right\\}",
+      "color": "rgb(218, 100, 100)"
+    },
+    {
+      "latex": "13<x<14\\left\\{13<y<14\\right\\}",
+      "color": "rgb(229, 124, 121)"
+    },
+    {
+      "latex": "14<x<15\\left\\{13<y<14\\right\\}",
+      "color": "rgb(229, 122, 120)"
+    },
+    {
+      "latex": "15<x<16\\left\\{13<y<14\\right\\}",
+      "color": "rgb(235, 133, 132)"
+    },
+    {
+      "latex": "0<x<1\\left\\{14<y<15\\right\\}",
+      "color": "rgb(231, 129, 132)"
+    },
+    {
+      "latex": "1<x<2\\left\\{14<y<15\\right\\}",
+      "color": "rgb(228, 114, 121)"
+    },
+    {
+      "latex": "2<x<3\\left\\{14<y<15\\right\\}",
+      "color": "rgb(228, 122, 118)"
+    },
+    {
+      "latex": "3<x<4\\left\\{14<y<15\\right\\}",
+      "color": "rgb(214, 101, 96)"
+    },
+    {
+      "latex": "4<x<5\\left\\{14<y<15\\right\\}",
+      "color": "rgb(75, 90, 129)"
+    },
+    {
+      "latex": "5<x<6\\left\\{14<y<15\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "6<x<7\\left\\{14<y<15\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "7<x<8\\left\\{14<y<15\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "8<x<9\\left\\{14<y<15\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "9<x<10\\left\\{14<y<15\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "10<x<11\\left\\{14<y<15\\right\\}",
+      "color": "rgb(69, 104, 112)"
+    },
+    {
+      "latex": "11<x<12\\left\\{14<y<15\\right\\}",
+      "color": "rgb(75, 90, 129)"
+    },
+    {
+      "latex": "12<x<13\\left\\{14<y<15\\right\\}",
+      "color": "rgb(214, 101, 96)"
+    },
+    {
+      "latex": "13<x<14\\left\\{14<y<15\\right\\}",
+      "color": "rgb(228, 122, 118)"
+    },
+    {
+      "latex": "14<x<15\\left\\{14<y<15\\right\\}",
+      "color": "rgb(228, 114, 121)"
+    },
+    {
+      "latex": "15<x<16\\left\\{14<y<15\\right\\}",
+      "color": "rgb(231, 129, 132)"
+    },
+    {
+      "latex": "0<x<1\\left\\{15<y<16\\right\\}",
+      "color": "rgb(211, 210, 210)"
+    },
+    {
+      "latex": "1<x<2\\left\\{15<y<16\\right\\}",
+      "color": "rgb(211, 210, 210)"
+    },
+    {
+      "latex": "2<x<3\\left\\{15<y<16\\right\\}",
+      "color": "rgb(182, 182, 182)"
+    },
+    {
+      "latex": "3<x<4\\left\\{15<y<16\\right\\}",
+      "color": "rgb(182, 182, 182)"
+    },
+    {
+      "latex": "4<x<5\\left\\{15<y<16\\right\\}",
+      "color": "rgb(75, 90, 129)"
+    },
+    {
+      "latex": "5<x<6\\left\\{15<y<16\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "6<x<7\\left\\{15<y<16\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "7<x<8\\left\\{15<y<16\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "8<x<9\\left\\{15<y<16\\right\\}",
+      "color": "rgb(225, 87, 12)"
+    },
+    {
+      "latex": "9<x<10\\left\\{15<y<16\\right\\}",
+      "color": "rgb(225, 87, 12)"
+    },
+    {
+      "latex": "10<x<11\\left\\{15<y<16\\right\\}",
+      "color": "rgb(243, 113, 44)"
+    },
+    {
+      "latex": "11<x<12\\left\\{15<y<16\\right\\}",
+      "color": "rgb(75, 90, 129)"
+    },
+    {
+      "latex": "12<x<13\\left\\{15<y<16\\right\\}",
+      "color": "rgb(182, 182, 182)"
+    },
+    {
+      "latex": "13<x<14\\left\\{15<y<16\\right\\}",
+      "color": "rgb(182, 182, 182)"
+    },
+    {
+      "latex": "14<x<15\\left\\{15<y<16\\right\\}",
+      "color": "rgb(211, 210, 210)"
+    },
+    {
+      "latex": "15<x<16\\left\\{15<y<16\\right\\}",
+      "color": "rgb(211, 210, 210)"
+    },
+    {
+      "latex": "0<x<1\\left\\{16<y<17\\right\\}",
+      "color": "rgb(233, 233, 233)"
+    },
+    {
+      "latex": "1<x<2\\left\\{16<y<17\\right\\}",
+      "color": "rgb(233, 233, 233)"
+    },
+    {
+      "latex": "2<x<3\\left\\{16<y<17\\right\\}",
+      "color": "rgb(233, 233, 233)"
+    },
+    {
+      "latex": "3<x<4\\left\\{16<y<17\\right\\}",
+      "color": "rgb(182, 182, 182)"
+    },
+    {
+      "latex": "4<x<5\\left\\{16<y<17\\right\\}",
+      "color": "rgb(75, 90, 129)"
+    },
+    {
+      "latex": "5<x<6\\left\\{16<y<17\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "6<x<7\\left\\{16<y<17\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "7<x<8\\left\\{16<y<17\\right\\}",
+      "color": "rgb(225, 87, 12)"
+    },
+    {
+      "latex": "8<x<9\\left\\{16<y<17\\right\\}",
+      "color": "rgb(243, 113, 44)"
+    },
+    {
+      "latex": "9<x<10\\left\\{16<y<17\\right\\}",
+      "color": "rgb(244, 131, 68)"
+    },
+    {
+      "latex": "10<x<11\\left\\{16<y<17\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "11<x<12\\left\\{16<y<17\\right\\}",
+      "color": "rgb(75, 90, 129)"
+    },
+    {
+      "latex": "12<x<13\\left\\{16<y<17\\right\\}",
+      "color": "rgb(182, 182, 182)"
+    },
+    {
+      "latex": "13<x<14\\left\\{16<y<17\\right\\}",
+      "color": "rgb(233, 233, 233)"
+    },
+    {
+      "latex": "14<x<15\\left\\{16<y<17\\right\\}",
+      "color": "rgb(233, 233, 233)"
+    },
+    {
+      "latex": "15<x<16\\left\\{16<y<17\\right\\}",
+      "color": "rgb(233, 233, 233)"
+    },
+    {
+      "latex": "0<x<1\\left\\{17<y<18\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "1<x<2\\left\\{17<y<18\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "2<x<3\\left\\{17<y<18\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "3<x<4\\left\\{17<y<18\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "4<x<5\\left\\{17<y<18\\right\\}",
+      "color": "rgb(75, 90, 129)"
+    },
+    {
+      "latex": "5<x<6\\left\\{17<y<18\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "6<x<7\\left\\{17<y<18\\right\\}",
+      "color": "rgb(122, 180, 34)"
+    },
+    {
+      "latex": "7<x<8\\left\\{17<y<18\\right\\}",
+      "color": "rgb(243, 113, 44)"
+    },
+    {
+      "latex": "8<x<9\\left\\{17<y<18\\right\\}",
+      "color": "rgb(244, 131, 68)"
+    },
+    {
+      "latex": "9<x<10\\left\\{17<y<18\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "10<x<11\\left\\{17<y<18\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "11<x<12\\left\\{17<y<18\\right\\}",
+      "color": "rgb(75, 90, 129)"
+    },
+    {
+      "latex": "12<x<13\\left\\{17<y<18\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "13<x<14\\left\\{17<y<18\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "14<x<15\\left\\{17<y<18\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "15<x<16\\left\\{17<y<18\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "0<x<1\\left\\{18<y<19\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "1<x<2\\left\\{18<y<19\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "2<x<3\\left\\{18<y<19\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "3<x<4\\left\\{18<y<19\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "4<x<5\\left\\{18<y<19\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "5<x<6\\left\\{18<y<19\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "6<x<7\\left\\{18<y<19\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "7<x<8\\left\\{18<y<19\\right\\}",
+      "color": "rgb(137, 201, 37)"
+    },
+    {
+      "latex": "8<x<9\\left\\{18<y<19\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "9<x<10\\left\\{18<y<19\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "10<x<11\\left\\{18<y<19\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "11<x<12\\left\\{18<y<19\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "12<x<13\\left\\{18<y<19\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "13<x<14\\left\\{18<y<19\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "14<x<15\\left\\{18<y<19\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "15<x<16\\left\\{18<y<19\\right\\}",
+      "color": "rgb(221, 209, 206)"
+    },
+    {
+      "latex": "0<x<1\\left\\{19<y<20\\right\\}",
+      "color": "rgb(177, 106, 151)"
+    },
+    {
+      "latex": "1<x<2\\left\\{19<y<20\\right\\}",
+      "color": "rgb(186, 123, 163)"
+    },
+    {
+      "latex": "2<x<3\\left\\{19<y<20\\right\\}",
+      "color": "rgb(177, 106, 151)"
+    },
+    {
+      "latex": "3<x<4\\left\\{19<y<20\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "4<x<5\\left\\{19<y<20\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "5<x<6\\left\\{19<y<20\\right\\}",
+      "color": "rgb(254, 230, 109)"
+    },
+    {
+      "latex": "6<x<7\\left\\{19<y<20\\right\\}",
+      "color": "rgb(82, 140, 142)"
+    },
+    {
+      "latex": "7<x<8\\left\\{19<y<20\\right\\}",
+      "color": "rgb(82, 140, 142)"
+    },
+    {
+      "latex": "8<x<9\\left\\{19<y<20\\right\\}",
+      "color": "rgb(82, 140, 142)"
+    },
+    {
+      "latex": "9<x<10\\left\\{19<y<20\\right\\}",
+      "color": "rgb(82, 140, 142)"
+    },
+    {
+      "latex": "10<x<11\\left\\{19<y<20\\right\\}",
+      "color": "rgb(254, 230, 109)"
+    },
+    {
+      "latex": "11<x<12\\left\\{19<y<20\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "12<x<13\\left\\{19<y<20\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "13<x<14\\left\\{19<y<20\\right\\}",
+      "color": "rgb(177, 106, 151)"
+    },
+    {
+      "latex": "14<x<15\\left\\{19<y<20\\right\\}",
+      "color": "rgb(186, 123, 163)"
+    },
+    {
+      "latex": "15<x<16\\left\\{19<y<20\\right\\}",
+      "color": "rgb(177, 106, 151)"
+    },
+    {
+      "latex": "0<x<1\\left\\{20<y<21\\right\\}",
+      "color": "rgb(195, 141, 175)"
+    },
+    {
+      "latex": "1<x<2\\left\\{20<y<21\\right\\}",
+      "color": "rgb(134, 71, 110)"
+    },
+    {
+      "latex": "2<x<3\\left\\{20<y<21\\right\\}",
+      "color": "rgb(195, 141, 175)"
+    },
+    {
+      "latex": "3<x<4\\left\\{20<y<21\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "4<x<5\\left\\{20<y<21\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "5<x<6\\left\\{20<y<21\\right\\}",
+      "color": "rgb(82, 140, 142)"
+    },
+    {
+      "latex": "6<x<7\\left\\{20<y<21\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "7<x<8\\left\\{20<y<21\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "8<x<9\\left\\{20<y<21\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "9<x<10\\left\\{20<y<21\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "10<x<11\\left\\{20<y<21\\right\\}",
+      "color": "rgb(82, 140, 142)"
+    },
+    {
+      "latex": "11<x<12\\left\\{20<y<21\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "12<x<13\\left\\{20<y<21\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "13<x<14\\left\\{20<y<21\\right\\}",
+      "color": "rgb(195, 141, 175)"
+    },
+    {
+      "latex": "14<x<15\\left\\{20<y<21\\right\\}",
+      "color": "rgb(134, 71, 110)"
+    },
+    {
+      "latex": "15<x<16\\left\\{20<y<21\\right\\}",
+      "color": "rgb(195, 141, 175)"
+    },
+    {
+      "latex": "0<x<1\\left\\{21<y<22\\right\\}",
+      "color": "rgb(213, 175, 199)"
+    },
+    {
+      "latex": "1<x<2\\left\\{21<y<22\\right\\}",
+      "color": "rgb(204, 158, 187)"
+    },
+    {
+      "latex": "2<x<3\\left\\{21<y<22\\right\\}",
+      "color": "rgb(213, 175, 199)"
+    },
+    {
+      "latex": "3<x<4\\left\\{21<y<22\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "4<x<5\\left\\{21<y<22\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "5<x<6\\left\\{21<y<22\\right\\}",
+      "color": "rgb(82, 140, 142)"
+    },
+    {
+      "latex": "6<x<7\\left\\{21<y<22\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "7<x<8\\left\\{21<y<22\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "8<x<9\\left\\{21<y<22\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "9<x<10\\left\\{21<y<22\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "10<x<11\\left\\{21<y<22\\right\\}",
+      "color": "rgb(82, 140, 142)"
+    },
+    {
+      "latex": "11<x<12\\left\\{21<y<22\\right\\}",
+      "color": "rgb(232, 220, 214)"
+    },
+    {
+      "latex": "12<x<13\\left\\{21<y<22\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "13<x<14\\left\\{21<y<22\\right\\}",
+      "color": "rgb(213, 175, 199)"
+    },
+    {
+      "latex": "14<x<15\\left\\{21<y<22\\right\\}",
+      "color": "rgb(204, 158, 187)"
+    },
+    {
+      "latex": "15<x<16\\left\\{21<y<22\\right\\}",
+      "color": "rgb(213, 175, 199)"
+    },
+    {
+      "latex": "0<x<1\\left\\{22<y<23\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "1<x<2\\left\\{22<y<23\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "2<x<3\\left\\{22<y<23\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "3<x<4\\left\\{22<y<23\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "4<x<5\\left\\{22<y<23\\right\\}",
+      "color": "rgb(229, 209, 193)"
+    },
+    {
+      "latex": "5<x<6\\left\\{22<y<23\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "6<x<7\\left\\{22<y<23\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "7<x<8\\left\\{22<y<23\\right\\}",
+      "color": "rgb(239, 168, 165)"
+    },
+    {
+      "latex": "8<x<9\\left\\{22<y<23\\right\\}",
+      "color": "rgb(239, 168, 165)"
+    },
+    {
+      "latex": "9<x<10\\left\\{22<y<23\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "10<x<11\\left\\{22<y<23\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "11<x<12\\left\\{22<y<23\\right\\}",
+      "color": "rgb(229, 209, 193)"
+    },
+    {
+      "latex": "12<x<13\\left\\{22<y<23\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "13<x<14\\left\\{22<y<23\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "14<x<15\\left\\{22<y<23\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "15<x<16\\left\\{22<y<23\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "0<x<1\\left\\{23<y<24\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "1<x<2\\left\\{23<y<24\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "2<x<3\\left\\{23<y<24\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "3<x<4\\left\\{23<y<24\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "4<x<5\\left\\{23<y<24\\right\\}",
+      "color": "rgb(229, 209, 193)"
+    },
+    {
+      "latex": "5<x<6\\left\\{23<y<24\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "6<x<7\\left\\{23<y<24\\right\\}",
+      "color": "rgb(229, 209, 193)"
+    },
+    {
+      "latex": "7<x<8\\left\\{23<y<24\\right\\}",
+      "color": "rgb(239, 168, 165)"
+    },
+    {
+      "latex": "8<x<9\\left\\{23<y<24\\right\\}",
+      "color": "rgb(239, 168, 165)"
+    },
+    {
+      "latex": "9<x<10\\left\\{23<y<24\\right\\}",
+      "color": "rgb(229, 209, 193)"
+    },
+    {
+      "latex": "10<x<11\\left\\{23<y<24\\right\\}",
+      "color": "rgb(70, 114, 120)"
+    },
+    {
+      "latex": "11<x<12\\left\\{23<y<24\\right\\}",
+      "color": "rgb(229, 209, 193)"
+    },
+    {
+      "latex": "12<x<13\\left\\{23<y<24\\right\\}",
+      "color": "rgb(220, 197, 175)"
+    },
+    {
+      "latex": "13<x<14\\left\\{23<y<24\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "14<x<15\\left\\{23<y<24\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "15<x<16\\left\\{23<y<24\\right\\}",
+      "color": "rgb(243, 230, 221)"
+    },
+    {
+      "latex": "4<x<5\\left\\{24<y<25\\right\\}",
+      "color": "rgb(240, 175, 173)"
+    },
+    {
+      "latex": "5<x<6\\left\\{24<y<25\\right\\}",
+      "color": "rgb(240, 174, 171)"
+    },
+    {
+      "latex": "6<x<7\\left\\{24<y<25\\right\\}",
+      "color": "rgb(238, 168, 168)"
+    },
+    {
+      "latex": "7<x<8\\left\\{24<y<25\\right\\}",
+      "color": "rgb(238, 176, 172)"
+    },
+    {
+      "latex": "8<x<9\\left\\{24<y<25\\right\\}",
+      "color": "rgb(239, 168, 165)"
+    },
+    {
+      "latex": "9<x<10\\left\\{24<y<25\\right\\}",
+      "color": "rgb(238, 163, 162)"
+    },
+    {
+      "latex": "10<x<11\\left\\{24<y<25\\right\\}",
+      "color": "rgb(235, 156, 156)"
+    },
+    {
+      "latex": "11<x<12\\left\\{24<y<25\\right\\}",
+      "color": "rgb(238, 158, 154)"
+    },
+    {
+      "latex": "4<x<5\\left\\{25<y<26\\right\\}",
+      "color": "rgb(239, 176, 175)"
+    },
+    {
+      "latex": "5<x<6\\left\\{25<y<26\\right\\}",
+      "color": "rgb(240, 179, 177)"
+    },
+    {
+      "latex": "6<x<7\\left\\{25<y<26\\right\\}",
+      "color": "rgb(208, 141, 141)"
+    },
+    {
+      "latex": "7<x<8\\left\\{25<y<26\\right\\}",
+      "color": "rgb(206, 162, 154)"
+    },
+    {
+      "latex": "8<x<9\\left\\{25<y<26\\right\\}",
+      "color": "rgb(198, 132, 137)"
+    },
+    {
+      "latex": "9<x<10\\left\\{25<y<26\\right\\}",
+      "color": "rgb(195, 125, 132)"
+    },
+    {
+      "latex": "10<x<11\\left\\{25<y<26\\right\\}",
+      "color": "rgb(236, 150, 154)"
+    },
+    {
+      "latex": "11<x<12\\left\\{25<y<26\\right\\}",
+      "color": "rgb(236, 146, 151)"
+    },
+    {
+      "latex": "4<x<5\\left\\{26<y<27\\right\\}",
+      "color": "rgb(241, 175, 173)"
+    },
+    {
+      "latex": "5<x<6\\left\\{26<y<27\\right\\}",
+      "color": "rgb(240, 175, 174)"
+    },
+    {
+      "latex": "6<x<7\\left\\{26<y<27\\right\\}",
+      "color": "rgb(155, 80, 80)"
+    },
+    {
+      "latex": "7<x<8\\left\\{26<y<27\\right\\}",
+      "color": "rgb(240, 168, 169)"
+    },
+    {
+      "latex": "8<x<9\\left\\{26<y<27\\right\\}",
+      "color": "rgb(239, 162, 163)"
+    },
+    {
+      "latex": "9<x<10\\left\\{26<y<27\\right\\}",
+      "color": "rgb(144, 75, 73)"
+    },
+    {
+      "latex": "10<x<11\\left\\{26<y<27\\right\\}",
+      "color": "rgb(239, 163, 158)"
+    },
+    {
+      "latex": "11<x<12\\left\\{26<y<27\\right\\}",
+      "color": "rgb(239, 162, 158)"
+    },
+    {
+      "latex": "4<x<5\\left\\{27<y<28\\right\\}",
+      "color": "rgb(235, 165, 164)"
+    },
+    {
+      "latex": "5<x<6\\left\\{27<y<28\\right\\}",
+      "color": "rgb(240, 176, 173)"
+    },
+    {
+      "latex": "6<x<7\\left\\{27<y<28\\right\\}",
+      "color": "rgb(240, 195, 197)"
+    },
+    {
+      "latex": "7<x<8\\left\\{27<y<28\\right\\}",
+      "color": "rgb(239, 194, 196)"
+    },
+    {
+      "latex": "8<x<9\\left\\{27<y<28\\right\\}",
+      "color": "rgb(241, 195, 197)"
+    },
+    {
+      "latex": "9<x<10\\left\\{27<y<28\\right\\}",
+      "color": "rgb(237, 186, 187)"
+    },
+    {
+      "latex": "10<x<11\\left\\{27<y<28\\right\\}",
+      "color": "rgb(239, 160, 162)"
+    },
+    {
+      "latex": "11<x<12\\left\\{27<y<28\\right\\}",
+      "color": "rgb(236, 150, 153)"
+    },
+    {
+      "latex": "4<x<5\\left\\{28<y<29\\right\\}",
+      "color": "rgb(2, 0, 1)"
+    },
+    {
+      "latex": "5<x<6\\left\\{28<y<29\\right\\}",
+      "color": "rgb(250, 250, 250)"
+    },
+    {
+      "latex": "6<x<7\\left\\{28<y<29\\right\\}",
+      "color": "rgb(240, 166, 165)"
+    },
+    {
+      "latex": "7<x<8\\left\\{28<y<29\\right\\}",
+      "color": "rgb(239, 168, 166)"
+    },
+    {
+      "latex": "8<x<9\\left\\{28<y<29\\right\\}",
+      "color": "rgb(238, 157, 157)"
+    },
+    {
+      "latex": "9<x<10\\left\\{28<y<29\\right\\}",
+      "color": "rgb(238, 157, 157)"
+    },
+    {
+      "latex": "10<x<11\\left\\{28<y<29\\right\\}",
+      "color": "rgb(254, 254, 254)"
+    },
+    {
+      "latex": "11<x<12\\left\\{28<y<29\\right\\}",
+      "color": "rgb(2, 0, 1)"
+    },
+    {
+      "latex": "4<x<5\\left\\{29<y<30\\right\\}",
+      "color": "rgb(204, 190, 0)"
+    },
+    {
+      "latex": "5<x<6\\left\\{29<y<30\\right\\}",
+      "color": "rgb(204, 190, 0)"
+    },
+    {
+      "latex": "6<x<7\\left\\{29<y<30\\right\\}",
+      "color": "rgb(204, 190, 0)"
+    },
+    {
+      "latex": "7<x<8\\left\\{29<y<30\\right\\}",
+      "color": "rgb(204, 190, 0)"
+    },
+    {
+      "latex": "8<x<9\\left\\{29<y<30\\right\\}",
+      "color": "rgb(204, 190, 0)"
+    },
+    {
+      "latex": "9<x<10\\left\\{29<y<30\\right\\}",
+      "color": "rgb(204, 190, 0)"
+    },
+    {
+      "latex": "10<x<11\\left\\{29<y<30\\right\\}",
+      "color": "rgb(204, 190, 0)"
+    },
+    {
+      "latex": "11<x<12\\left\\{29<y<30\\right\\}",
+      "color": "rgb(204, 190, 0)"
+    },
+    {
+      "latex": "4<x<5\\left\\{30<y<31\\right\\}",
+      "color": "rgb(219, 204, 0)"
+    },
+    {
+      "latex": "5<x<6\\left\\{30<y<31\\right\\}",
+      "color": "rgb(168, 230, 29)"
+    },
+    {
+      "latex": "6<x<7\\left\\{30<y<31\\right\\}",
+      "color": "rgb(219, 204, 0)"
+    },
+    {
+      "latex": "7<x<8\\left\\{30<y<31\\right\\}",
+      "color": "rgb(10, 2, 235)"
+    },
+    {
+      "latex": "8<x<9\\left\\{30<y<31\\right\\}",
+      "color": "rgb(219, 204, 0)"
+    },
+    {
+      "latex": "9<x<10\\left\\{30<y<31\\right\\}",
+      "color": "rgb(77, 109, 243)"
+    },
+    {
+      "latex": "10<x<11\\left\\{30<y<31\\right\\}",
+      "color": "rgb(219, 204, 0)"
+    },
+    {
+      "latex": "11<x<12\\left\\{30<y<31\\right\\}",
+      "color": "rgb(219, 204, 0)"
+    },
+    {
+      "latex": "4<x<5\\left\\{31<y<32\\right\\}",
+      "color": "rgb(255, 242, 0)"
+    },
+    {
+      "latex": "5<x<6\\left\\{31<y<32\\right\\}",
+      "color": "rgb(238, 156, 158)"
+    },
+    {
+      "latex": "6<x<7\\left\\{31<y<32\\right\\}",
+      "color": "rgb(255, 242, 0)"
+    },
+    {
+      "latex": "7<x<8\\left\\{31<y<32\\right\\}",
+      "color": "rgb(237, 161, 161)"
+    },
+    {
+      "latex": "8<x<9\\left\\{31<y<32\\right\\}",
+      "color": "rgb(236, 152, 154)"
+    },
+    {
+      "latex": "9<x<10\\left\\{31<y<32\\right\\}",
+      "color": "rgb(255, 242, 0)"
+    },
+    {
+      "latex": "10<x<11\\left\\{31<y<32\\right\\}",
+      "color": "rgb(224, 135, 132)"
+    },
+    {
+      "latex": "11<x<12\\left\\{31<y<32\\right\\}",
+      "color": "rgb(219, 204, 0)"
+    }
+  ],
+  "height": 34,
+  "width": 18
+}

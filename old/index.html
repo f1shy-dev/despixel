@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desmos</title>
+    <script src="https://www.desmos.com/api/v1.6/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+</head>
+
+<body>
+    <div id="c" style="width: 95vw; height: 95vh"></div>
+    <script>
+        (async () => {
+            const { pixels, height, width } = await (await fetch("http://192.168.1.210:3000/pixelmap.json")).json();
+            const calculator = Desmos.GraphingCalculator(
+                document.getElementById("c"), { showGrid: false, showXAxis: false, showYAxis: false, showTooltip: false, expressions: false }
+            );
+            calculator.setMathBounds({
+                bottom: -5,
+                left: -5,
+                right: width + 5,
+                top: height + 5
+            });
+            const sleep = m => new Promise(r => setTimeout(r, m));
+
+            for (var i = 0; i < pixels.length; i++) {
+                const item = pixels[i]
+                calculator.setExpression({
+                    id: "d" + Math.floor((Math.random() * 999999999) + 1).toString(),
+                    latex: item.latex,
+                    color: item.color,
+                    fillOpacity: item.color == "" ? 0 : 1,
+                    lineOpacity: 0,
+                    lineWidth: 0,
+                });
+                if (i % 128 === 0) await sleep(1 * 10 ^ -5);
+            }
+        })();
+    </script>
+</body>
+
+</html>

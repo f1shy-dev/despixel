@@ -1,0 +1,16 @@
+{
+  "name": "despixel",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
