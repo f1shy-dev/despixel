@@ -49,6 +49,8 @@ $("#render").addEventListener("click", async () => {
     top: longer + 5,
   });
 
+  const numOfPixels = maxRes * Math.round(maxRes * hXwRatio);
+
   [...Array(maxRes)].forEach((_, y) =>
     [...Array(Math.round(maxRes * hXwRatio))].forEach((_, x) => {
       const ic = Jimp.intToRGBA(skin.getPixelColor(x, y));
@@ -64,6 +66,10 @@ $("#render").addEventListener("click", async () => {
         lineOpacity: 0,
         lineWidth: 0,
       });
+
+      document.querySelector("#prog-p").innerHTML = `${Math.round(
+        ((y * Math.round(maxRes * hXwRatio)) / numOfPixels) * 100
+      )}%`;
     })
   );
 
